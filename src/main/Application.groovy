@@ -1,6 +1,6 @@
 package main
 
-class HelloWorld {
+class Application {
     static void main(String[] args) {
         Person person = new Person(
                 firstName: 'John',
