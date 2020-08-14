@@ -2,6 +2,11 @@ package main
 
 class HelloWorld {
     static void main(String[] args) {
-        println("hello world!")
+        Person person = new Person(
+                firstName: 'John',
+                lastName: 'Doe',
+                age: 40
+        )
+        person.personInfo()
     }
 }
