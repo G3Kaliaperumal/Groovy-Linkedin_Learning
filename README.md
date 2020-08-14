@@ -1,2 +1,3 @@
-# Groovy course
-Notes for my online groovy course in Linkedin Learning
+## Groovy => Linkedin Learning Course Notes
+
+**Course Link:** *https://www.linkedin.com/learning/learning-groovy/groovy-and-java*
